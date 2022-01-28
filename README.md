@@ -7,5 +7,5 @@
 # Güncelleme Notları:
 -> Şuanlık not bulunmuyor.
 
-# Önizleme
-![Calculator](https://user-images.githubusercontent.com/90040826/150777760-62e4b656-82b5-4e49-a716-4ac30680bb97.png)
+# Önizleme:
+![Calculator](https://user-images.githubusercontent.com/90040826/151536861-b84de21c-77b9-4cc3-809a-3ceedc0fb84a.png)
